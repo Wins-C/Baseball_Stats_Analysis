@@ -1,0 +1,12 @@
+name: Baseball_Stats_Analysis
+title: Baseball_stats_analysis
+username: winschen23
+account: winschen23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11818306
+bundleId: 8522130
+url: https://winschen23.shinyapps.io/Baseball_Stats_Analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
